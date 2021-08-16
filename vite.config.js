@@ -12,7 +12,7 @@ export default defineConfig({
                 {
                     name: 'element-plus',
                     var: 'ElementPlus',
-                    path: 'lib/index.min.js',
+                    path: 'lib/index.full.js',
                     css: 'lib/theme-chalk/index.css'
                 },
             ],
