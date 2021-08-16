@@ -12,7 +12,8 @@ export default defineConfig({
                 {
                     name: 'element-plus',
                     var: 'ElementPlus',
-                    path: 'https://unpkg.com/element-plus/lib/index.full.js',
+                    path: 'lib/index.min.js',
+                    css: 'lib/theme-chalk/index.css'
                 },
             ],
         }),
